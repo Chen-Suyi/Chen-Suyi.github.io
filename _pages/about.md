@@ -22,8 +22,12 @@ I am a third-year graduate student at [University of Electronic Science and Tech
 
 My research interest is computer vision, with a focus on 3D point cloud registration, generative models, and synthetic datasets.
 
+<span class='anchor' id='news'></span>
+
 # News
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by International Conference on Computer Vision (ICCV 2023). 
+
+<span class='anchor' id='publications'></span>
 
 # Publications 
 
@@ -42,9 +46,13 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 </div>
 </div>
 
+<span class='anchor' id='educations'></span>
+
 # Educations
 - *2021.09 - 2024.06 (now)* \| M.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
 - *2017.09 - 2021.06* \| B.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
+
+<span class='anchor' id='internships'></span>
 
 # Internships
 - *2022.03 - present*, [Megvii Research](https://research.megvii.com/), China.
