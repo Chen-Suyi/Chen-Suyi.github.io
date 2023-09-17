@@ -30,9 +30,7 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 <span class='anchor' id='publications'></span>
 
 # Publications 
-
 **2023**
-
 <div class='paper-box'><div class='paper-box-image'><img src='publications/2023_iccv/iccv2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
