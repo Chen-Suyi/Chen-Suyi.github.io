@@ -47,4 +47,4 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 - *2017.09 - 2021.06* \| B.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
 
 # Internships
-- *2022.03 - present*, [Megvii Research](https://www.megvii.com/), China.
+- *2022.03 - present*, [Megvii Research](https://research.megvii.com/), China.
