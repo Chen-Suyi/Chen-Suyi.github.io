@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year graduate student at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), supervised by [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor degree in [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2021.
+# 🏠 About Me
+I am a third-year graduate student at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), supervised by [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2021.
 
-My research area is computer vision, with a focus on 3D point cloud registration, generative models, and synthetic datasets.
+My research interest is computer vision, with a focus on 3D point cloud registration, generative models, and synthetic datasets.
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by International Conference on Computer Vision (ICCV 2023). 
@@ -28,22 +29,16 @@ My research area is computer vision, with a focus on 3D point cloud registration
 
 **2023**
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/2023_iccv/iccv2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='publications/2023_iccv/iccv2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration** 
-  
+
 *IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
 
 **Suyi Chen\***, Hao Xu\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
-Paper \| Video \| [code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](@InProceedings{SIRA_2023_ICCV,
-    author={Chen, Suyi and Xu, Hao and Li, Ru and Liu, Guanghui and Fu, Chi-Wing and Liu, Shuaicheng},
-    title={SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration},
-    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month={October},
-    year={2023},
-}) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](publications\2023_iccv\iccv2023.pdf) \| Video \| [code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](publications\2023_iccv\iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
