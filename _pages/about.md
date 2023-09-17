@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🏠 About Me
+# About Me
 I am a third-year graduate student at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), supervised by [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2021.
 
 My research interest is computer vision, with a focus on 3D point cloud registration, generative models, and synthetic datasets.
 
-# 🔥 News
+# News
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by International Conference on Computer Vision (ICCV 2023). 
 
-# 📝 Publications 
+# Publications 
 
 **2023**
 
@@ -42,9 +42,9 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 </div>
 </div>
 
-# 📖 Educations
+# Educations
 - *2021.09 - 2024.06 (now)* \| M.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
 - *2017.09 - 2021.06* \| B.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
 
-# 💻 Internships
+# Internships
 - *2022.03 - present*, [Megvii Research](https://www.megvii.com/), China.
