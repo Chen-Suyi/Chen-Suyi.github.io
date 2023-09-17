@@ -38,7 +38,7 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 
 **Suyi Chen\***, Hao Xu\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
-[Paper](publications\2023_iccv\iccv2023.pdf) \| Video \| [code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](publications\2023_iccv\iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](publications\2023_iccv\iccv2023.pdf) \| Video \| [Code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](publications\2023_iccv\iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 

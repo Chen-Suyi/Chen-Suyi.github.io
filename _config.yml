@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Suyi Chen"
-description              : "GitHub Pages of Suyi Chen"
+description              : "Chen-Suyi/Chen-Suyi.github.io"
 repository               : "Chen-Suyi/Chen-Suyi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Suyi Chen （陈苏逸）"
-  avatar           : r"images\profile\profile.png"
+  name             : " Suyi Chen \n （陈苏逸） "
+  avatar           : "images/profile/profile.png"
   bio              : "University of Electronic Science and Technology of China (UESTC)"
   location         : "Chengdu, Sichuan, China"
   employer         :
