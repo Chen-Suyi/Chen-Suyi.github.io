@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Suyi Chen"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : r"iimages\profile\profile.jpg"
   bio              : "University of Electronic Science and Technology of China"
   location         : "Chengdu, Sichuan, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Chen-Suyi"
   google_plus      :
   keybase          :
   instagram        :
