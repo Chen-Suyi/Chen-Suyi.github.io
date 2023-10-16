@@ -44,6 +44,11 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 </div>
 </div>
 
+<span class='anchor' id='honors_and_awards'></span>
+
+# Honors and Awards
+- *2023.09* National Scholarship for Graduate Excellence
+
 <span class='anchor' id='educations'></span>
 
 # Educations
