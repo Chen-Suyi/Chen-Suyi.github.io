@@ -47,7 +47,8 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 <span class='anchor' id='honors_and_awards'></span>
 
 # Honors and Awards
-- *2023.09* National Scholarship for Graduate Excellence
+- *2023.11* UESTC Outstanding Graduates
+- *2023.09* National Scholarship
 
 <span class='anchor' id='educations'></span>
 
