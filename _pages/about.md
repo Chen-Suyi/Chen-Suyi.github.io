@@ -25,6 +25,7 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 <span class='anchor' id='news'></span>
 
 # News
+- *2024.04*: &nbsp;I will be joining the CVLab at Stony Brook University as a Ph.D. Student in Fall 2024!
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by International Conference on Computer Vision (ICCV 2023). 
 
 <span class='anchor' id='publications'></span>
@@ -56,7 +57,7 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 - *2021.09 - 2024.06 (now)* \| M.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
 - *2017.09 - 2021.06* \| B.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
 
-<span class='anchor' id='internships'></span>
+<!-- <span class='anchor' id='internships'></span>
 
 # Internships
-- *2022.03 - present*, [Megvii Research](https://research.megvii.com/), China.
+- *2022.03 - present*, [Megvii Research](https://research.megvii.com/), China. -->
