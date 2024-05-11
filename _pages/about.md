@@ -60,4 +60,4 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 <span class='anchor' id='internships'></span>
 
 # Internships
-- *2022.03 - present*, [Megvii Research](https://research.megvii.com/), China.
+- *2022.03 - 2024.04*, [Megvii Research](https://research.megvii.com/), China.
