@@ -18,15 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a third-year graduate student at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), supervised by [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2021.
+I am a first-year Ph.D. student at [Stony Brook University](https://www.stonybrook.edu/). Prior to that, I received my Master's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2024, with my supervisors being [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2021.
 
 My research interest is computer vision, with a focus on 3D point cloud registration, generative models, and synthetic datasets.
 
 <span class='anchor' id='news'></span>
 
 # News
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by European Conference on Computer Vision (ECCV 2024).
+- *2024.06*: &nbsp; I have graduated from University of Electronic Science and Technology of China, and received my Master's degree.
 - *2024.04*: &nbsp;I will be joining the CVLab at Stony Brook University as a Ph.D. Student in Fall 2024!
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by International Conference on Computer Vision (ICCV 2023). 
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by International Conference on Computer Vision (ICCV 2023).
 
 <span class='anchor' id='publications'></span>
 
@@ -48,13 +50,13 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 <span class='anchor' id='honors_and_awards'></span>
 
 # Honors and Awards
-- *2023.11* UESTC Outstanding Graduates
+- *2023.11* 2024 Outstanding Graduates of UESTC
 - *2023.09* National Scholarship
 
 <span class='anchor' id='educations'></span>
 
 # Educations
-- *2021.09 - 2024.06 (now)* \| M.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
+- *2021.09 - 2024.06* \| M.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
 - *2017.09 - 2021.06* \| B.E. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
 
 <span class='anchor' id='internships'></span>
