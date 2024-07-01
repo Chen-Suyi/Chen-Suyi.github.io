@@ -26,7 +26,7 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 
 # News
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by European Conference on Computer Vision (ECCV 2024).
-- *2024.06*: &nbsp; I have graduated from University of Electronic Science and Technology of China, and received my Master's degree.
+- *2024.06*: &nbsp;I have graduated from University of Electronic Science and Technology of China, and received my Master's degree.
 - *2024.04*: &nbsp;I will be joining the CVLab at Stony Brook University as a Ph.D. Student in Fall 2024!
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by International Conference on Computer Vision (ICCV 2023).
 
@@ -50,8 +50,8 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 <span class='anchor' id='honors_and_awards'></span>
 
 # Honors and Awards
-- *2023.11* 2024 Outstanding Graduates of UESTC
-- *2023.09* National Scholarship
+- *2023.11* \| 2024 Outstanding Graduates of UESTC
+- *2023.09* \| National Scholarship
 
 <span class='anchor' id='educations'></span>
 
