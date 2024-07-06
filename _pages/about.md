@@ -43,7 +43,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 
 **PointGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training** 
 
-*IEEE/CVF European Conference on Computer Vision (**ECCV**), 2024*
+*European Conference on Computer Vision (**ECCV**), 2024*
 
 **Suyi Chen**, Hao Xu, Haipeng Li, Kunming Luo, Guanghui Liu, Chi-Wing Fu, Ping Tan, Shuaicheng Liu
   
