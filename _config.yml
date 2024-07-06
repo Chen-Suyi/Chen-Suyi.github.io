@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Suyi Chen（陈苏逸)"
   avatar           : "images/profile/profile.png"
-  bio              : "University of Electronic Science and Technology of China (UESTC)"
-  location         : "Chengdu, Sichuan, China"
+  bio              : "State University of New York at Stony Brook"
+  location         : "Stony Brook, New York, the U.S."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1Eiw4fEAAAAJ"
-  email            : "chensuyi98@std.uestc.edu.cn"
+  email            : "suyi.chen@stonybrook.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "suyi-chen"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

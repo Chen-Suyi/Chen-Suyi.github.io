@@ -22,6 +22,10 @@ I am a first-year Ph.D. student at [Stony Brook University](https://www.stonybro
 
 My research interest is computer vision, with a focus on 3D point cloud registration, generative models, and synthetic datasets.
 
+I am always open to collaboration. Please feel free to contact me if you would like to work with me.
+
+I am now seeking an internship opportunity. Please do not hesitate to reach out to me if you deem me a suitable candidate.
+
 <span class='anchor' id='news'></span>
 
 # News
@@ -33,6 +37,20 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 <span class='anchor' id='publications'></span>
 
 # Publications 
+**2024**
+<div class='paper-box'><div class='paper-box-image'><img src='publications/2024_eccv/iccv2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**PointGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training** 
+
+*IEEE/CVF European Conference on Computer Vision (**ECCV**), 2024*
+
+**Suyi Chen**, Hao Xu, Haipeng Li, Kunming Luo, Guanghui Liu, Chi-Wing Fu, Ping Tan, Shuaicheng Liu
+  
+[Paper]() \| [Video]() \| [Code](https://github.com/Chen-Suyi/PointGPT) \| [BibTex]() <strong><span class='show_paper_citations' data=''></span></strong>
+</div>
+</div>
+
 **2023**
 <div class='paper-box'><div class='paper-box-image'><img src='publications/2023_iccv/iccv2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +61,7 @@ My research interest is computer vision, with a focus on 3D point cloud registra
 
 **Suyi Chen\***, Hao Xu\*, Ru Li, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
-[Paper](publications\2023_iccv\iccv2023.pdf) \| [Video](https://youtu.be/TJfONIn5p_k) \| [Code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](publications\2023_iccv\iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](publications\2023_iccv\iccv2023.pdf) \| [Video](https://youtu.be/TJfONIn5p_k) \| [Code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](publications\2023_iccv\iccv2023.md) <strong><span class='show_paper_citations' data='1Eiw4fEAAAAJ:u5HHmVD_uO8C'></span></strong>
 </div>
 </div>
 
