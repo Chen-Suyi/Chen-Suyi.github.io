@@ -84,7 +84,7 @@ Ph.D. student in Computer Science
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' box-shadow='0px 0px'><img src='images/uestc/uestc.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/uestc/uestc.png' alt="sym" width="100%" style="box-shadow: 0px 0px;"></div>
 <div class='paper-box-text' markdown="1">
 
 **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)** 
