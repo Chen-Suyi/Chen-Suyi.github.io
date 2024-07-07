@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at [Stony Brook University](https://www.stonybrook.edu/) <img src='./images/sbu/sbu.png' style='width: 6em;'>. Prior to that, I received my Master's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) <img src='./images/uestc/uestc.png' style='width: 6em;'> in 2024, with my supervisors being [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) <img src='./images/uestc/uestc.png' style='width: 6em;'> in 2021.
+I am a first-year Ph.D. student at [Stony Brook University](https://www.stonybrook.edu/) <img src='./images/sbu/sbu.png' style='width: 6em;'>. Prior to that, I received my Master's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) <img src='./images/uestc/uestc.png' style='width: 5em;'> in 2024, with my supervisors being [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) <img src='./images/uestc/uestc.png' style='width: 5em;'> in 2021.
 
 My research interest is computer vision, with a focus on 3D point cloud registration, generative models, and synthetic datasets.
 
@@ -73,7 +73,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 <span class='anchor' id='educations'></span>
 
 # Educations
-<div class='paper-box'><div class='paper-box-image'><img src='images/sbu/sbu-stack.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/sbu/sbu.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
 **[Stony Brook University](https://www.stonybrook.edu/)** 
@@ -84,7 +84,7 @@ Ph.D. student in Computer Science
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uestc/uestc-logo.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/uestc/uestc.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
 **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)** 
@@ -95,7 +95,7 @@ M.Eng. in Information and Communication Engineering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uestc/uestc-logo.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/uestc/uestc.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
 **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)** 
@@ -109,4 +109,4 @@ B.Eng. in Electronic Information Engineering
 <span class='anchor' id='internships'></span>
 
 # Internships
-- *2022.03 - 2024.04*, [Megvii Research](https://research.megvii.com/) <img src='./images/megvii/megvii.png' style='width: 6em;'>, China.
+- *2022.03 - 2024.04*, [Megvii Research](https://research.megvii.com/) <img src='./images/megvii/megvii.png' style='width: 5em;'>, China.
