@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
 I am a first-year Ph.D. student at [Stony Brook University](https://www.stonybrook.edu/). Prior to that, I received my Master's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2024, with my supervisors being [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2021.
 
 My research interest is computer vision, with a focus on 3D point cloud registration, generative models, and synthetic datasets.
@@ -38,7 +37,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 
 # Publications 
 **2024**
-<div class='paper-box'><div class='paper-box-image'><img src='publications/2024_eccv/eccv2024.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='publications/2024_eccv/eccv2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **PointGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training** 
@@ -52,7 +51,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 </div>
 
 **2023**
-<div class='paper-box'><div class='paper-box-image'><img src='publications/2023_iccv/iccv2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='publications/2023_iccv/iccv2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration** 
