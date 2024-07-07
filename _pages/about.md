@@ -73,7 +73,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 <span class='anchor' id='educations'></span>
 
 # Educations
-<div class='paper-box'><div class='paper-box-image'><img src='images/sbu/sbu.png' alt="sym" width="100%" style="box-shadow: 0px 0px;"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/sbu/sbu.png' alt="sym" width="80%" style="box-shadow: 0px 0px;"></div>
 <div class='paper-box-text' markdown="1">
 
 **[Stony Brook University](https://www.stonybrook.edu/)** 
@@ -84,7 +84,7 @@ Ph.D. student in Computer Science
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uestc/uestc.png' alt="sym" width="100%" style="box-shadow: 0px 0px;"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/uestc/uestc.png' alt="sym" width="80%" style="box-shadow: 0px 0px;"></div>
 <div class='paper-box-text' markdown="1">
 
 **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)** 
@@ -95,7 +95,7 @@ M.Eng. in Information and Communication Engineering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uestc/uestc.png' alt="sym" width="100%" style="box-shadow: 0px 0px;"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/uestc/uestc.png' alt="sym" width="80%" style="box-shadow: 0px 0px;"></div>
 <div class='paper-box-text' markdown="1">
 
 **[University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)** 
