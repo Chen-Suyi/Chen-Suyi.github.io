@@ -40,13 +40,13 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='publications/2024_eccv/eccv2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**PointGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training** 
+**PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training** 
 
 *European Conference on Computer Vision (**ECCV**), 2024*
 
 **Suyi Chen**, Hao Xu, Haipeng Li, Kunming Luo, Guanghui Liu, Chi-Wing Fu, Ping Tan, Shuaicheng Liu
   
-[Paper]() \| [Video]() \| [Code](https://github.com/Chen-Suyi/PointGPT) \| [BibTex]() <strong><span class='show_paper_citations' data=''></span></strong>
+[Paper]() \| [Video]() \| [Code](https://github.com/Chen-Suyi/PointRegGPT) \| [BibTex]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div>
 </div>
 
