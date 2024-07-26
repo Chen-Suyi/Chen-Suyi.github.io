@@ -46,7 +46,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 
 **Suyi Chen**, Hao Xu, Haipeng Li, Kunming Luo, Guanghui Liu, Chi-Wing Fu, Ping Tan, Shuaicheng Liu
   
-[Paper]() \| [Video]() \| [Code](https://github.com/Chen-Suyi/PointRegGPT) \| [BibTex]() <strong><span class='show_paper_citations' data=''></span></strong>
+[Paper](publications\2024_eccv\eccv2024.pdf) \| [Video]() \| [Code](https://github.com/Chen-Suyi/PointRegGPT) \| [BibTex](publications\2023_eccv\eccv2024.md) <strong><span class='show_paper_citations' data=''></span></strong>
 </div>
 </div>
 
@@ -67,6 +67,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 <span class='anchor' id='honors_and_awards'></span>
 
 # Honors and Awards
+- *2024.02* \| Chairman Fellowship of Stony Brook University
 - *2023.11* \| 2024 Outstanding Graduates of UESTC
 - *2023.09* \| National Scholarship
 
