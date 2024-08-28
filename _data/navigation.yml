@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#publications"
 
+  - title: "Community Services"
+    url: "/#community_services"
+
   - title: "Honors and Awards"
     url: "/#honors_and_awards"
 

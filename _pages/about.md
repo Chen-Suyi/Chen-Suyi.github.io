@@ -64,6 +64,11 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 </div>
 </div>
 
+<span class='anchor' id='community_services'></span>
+
+# Community Services
+- Reviewer for IEEE Transactions on Multimedia
+
 <span class='anchor' id='honors_and_awards'></span>
 
 # Honors and Awards
