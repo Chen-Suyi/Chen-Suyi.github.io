@@ -114,5 +114,5 @@ B.Eng. in Electronic Information Engineering
 
 <span class='anchor' id='internships'></span>
 
-# Internships
-- *2022.03 - 2024.04*, [Megvii Research](https://research.megvii.com/) <img src='./images/megvii/megvii.png' style='width: 4em;'>, China.
+<!-- # Internships
+- *2022.03 - 2024.04*, [Megvii Research](https://research.megvii.com/) <img src='./images/megvii/megvii.png' style='width: 4em;'>, China. -->
