@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at [Stony Brook University](https://www.stonybrook.edu/) <img src='./images/sbu/sbu.png' style='width: 6em;'>. Prior to that, I received my Master's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) <img src='./images/uestc/uestc.png' style='width: 5em;'> in 2024, with my supervisors being [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) <img src='./images/uestc/uestc.png' style='width: 5em;'> in 2021.
+I am a first-year Ph.D. student at [Stony Brook University](https://www.stonybrook.edu/) <img src='./images/sbu/sbu.png' style='width: 6em;'>, advised by [Prof. Haibin Ling](https://www3.cs.stonybrook.edu/~hling/). Prior to that, I received my Master's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) <img src='./images/uestc/uestc.png' style='width: 5em;'> in 2024, with my supervisors being [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) <img src='./images/uestc/uestc.png' style='width: 5em;'> in 2021.
 
 My research interest is computer vision, with a focus on 3D point cloud registration, generative models, and synthetic datasets.
 
