@@ -46,7 +46,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 
 **Suyi Chen**, Hao Xu, Haipeng Li, Kunming Luo, Guanghui Liu, Chi-Wing Fu, Ping Tan, Shuaicheng Liu
   
-[Paper](publications\2024_eccv\eccv2024.pdf) \| [Video](https://youtu.be/CqXchy9ZE1E) \| [Code](https://github.com/Chen-Suyi/PointRegGPT) \| [BibTex](publications\2023_eccv\eccv2024.md) <strong><span class='show_paper_citations' data=''></span></strong>
+[Paper](publications\2024_eccv\eccv2024.pdf) \| [Video](https://youtu.be/CqXchy9ZE1E) \| [Code](https://github.com/Chen-Suyi/PointRegGPT) \| [BibTex](publications\2024_eccv\eccv2024.md) <strong><span class='show_paper_citations' data=''></span></strong>
 </div>
 </div>
 
