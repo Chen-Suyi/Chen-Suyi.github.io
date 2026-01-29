@@ -29,8 +29,8 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 
 # News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by International Conference on on Learning Representations (ICLR 2026).
-- *2025.10*：&nbsp; I passed the Research Proficiency Examination (RPE) for my Ph.D. program.
-- *2025.09*：&nbsp; I am starting a new position as Research Scientist Intern at ByteDance Seed.
+- *2025.10*：&nbsp;I passed the Research Proficiency Examination (RPE) for my Ph.D. program.
+- *2025.09*：&nbsp;I am starting a new position as Research Scientist Intern at ByteDance Seed.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by European Conference on Computer Vision (ECCV 2024).
 - *2024.06*: &nbsp;I have graduated from University of Electronic Science and Technology of China, and received my Master's degree.
 - *2024.04*: &nbsp;I will be joining the CVLab at Stony Brook University as a Ph.D. Student in Fall 2024!
