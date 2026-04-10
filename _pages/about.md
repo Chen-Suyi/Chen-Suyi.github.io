@@ -39,6 +39,20 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 <span class='anchor' id='publications'></span>
 
 # Publications 
+**2026**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='publications/2026_iclr/iclr2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CryoSplat: Gaussian Splatting for Cryo-EM Homogeneous Reconstruction** 
+
+*International Conference on Learning Representations (**ICLR**), 2026*
+
+**Suyi Chen**, Haibin Ling
+  
+[Paper](publications\2026_iclr\iclr2026.pdf) \| [Code](https://github.com/Chen-Suyi/cryosplat) \| [BibTex](publications\2026_iclr\iclr2026.md) <strong><span class='show_paper_citations' data='1Eiw4fEAAAAJ:2osOgNQ5qMEC'></span></strong>
+</div>
+</div>
+
 **2024**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='publications/2024_eccv/eccv2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,7 +63,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 
 **Suyi Chen**, Hao Xu, Haipeng Li, Kunming Luo, Guanghui Liu, Chi-Wing Fu, Ping Tan, Shuaicheng Liu
   
-[Paper](publications\2024_eccv\eccv2024.pdf) \| [Video](https://youtu.be/CqXchy9ZE1E) \| [Code](https://github.com/Chen-Suyi/PointRegGPT) \| [BibTex](publications\2024_eccv\eccv2024.md) <strong><span class='show_paper_citations' data=''></span></strong>
+[Paper](publications\2024_eccv\eccv2024.pdf) \| [Video](https://youtu.be/CqXchy9ZE1E) \| [Code](https://github.com/Chen-Suyi/PointRegGPT) \| [BibTex](publications\2024_eccv\eccv2024.md) <strong><span class='show_paper_citations' data='1Eiw4fEAAAAJ:d1gkVwhDpl0C'></span></strong>
 </div>
 </div>
 
