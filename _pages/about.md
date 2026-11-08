@@ -28,6 +28,7 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 <span class='anchor' id='news'></span>
 
 # News
+- *2026.09*：&nbsp;I am starting a new position as Machine Learning Intern at Astera Institute.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by International Conference on on Learning Representations (ICLR 2026).
 - *2025.10*：&nbsp;I passed the Research Proficiency Examination (RPE) for my Ph.D. program.
 - *2025.09*：&nbsp;I am starting a new position as Research Scientist Intern at ByteDance Seed.
