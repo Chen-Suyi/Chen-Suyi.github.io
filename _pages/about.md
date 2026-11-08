@@ -28,14 +28,16 @@ I am now seeking an internship opportunity. Please do not hesitate to reach out 
 <span class='anchor' id='news'></span>
 
 # News
-- *2026.09*：&nbsp;I am starting a new position as Machine Learning Intern at Astera Institute.
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by International Conference on on Learning Representations (ICLR 2026).
-- *2025.10*：&nbsp;I passed the Research Proficiency Examination (RPE) for my Ph.D. program.
-- *2025.09*：&nbsp;I am starting a new position as Research Scientist Intern at ByteDance Seed.
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by European Conference on Computer Vision (ECCV 2024).
-- *2024.06*: &nbsp;I have graduated from University of Electronic Science and Technology of China, and received my Master's degree.
-- *2024.04*: &nbsp;I will be joining the CVLab at Stony Brook University as a Ph.D. Student in Fall 2024!
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by International Conference on Computer Vision (ICCV 2023).
+
+- *2026.10*: Successfully defended my Ph.D. thesis proposal (Prelim).
+- *2026.09*: Joined Astera Institute as a Machine Learning Intern.
+- *2026.01*: 🎉🎉 Our paper was accepted to the International Conference on Learning Representations (ICLR 2026).
+- *2025.10*: Passed my Ph.D. Research Proficiency Examination (RPE).
+- *2025.09*: Joined ByteDance Seed as a Research Scientist Intern.
+- *2024.07*: 🎉🎉 Our paper was accepted to the European Conference on Computer Vision (ECCV 2024).
+- *2024.06*: Graduated from the University of Electronic Science and Technology of China with a Master's degree.
+- *2024.04*: Accepted an offer to join CVLab at Stony Brook University as a Ph.D. student in Fall 2024!
+- *2023.07*: 🎉🎉 Our paper was accepted to the International Conference on Computer Vision (ICCV 2023).
 
 <span class='anchor' id='publications'></span>
 
